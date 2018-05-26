@@ -1,2 +1,2 @@
 # Snake-Game
-This game was built for a semester project of first year.
+https://pratitrajgiri.gitbook.io/snakegame/ Please refer this link for the documentation.
